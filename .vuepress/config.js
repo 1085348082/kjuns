@@ -2,6 +2,7 @@ module.exports = {
   "title": "k-Blog",
   "description": "Welcome my friend",
   "dest": "public",
+  "base": "/1085348082.github.io/",
   "head": [
     [
       "link",
